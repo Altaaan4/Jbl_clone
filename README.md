@@ -20,4 +20,5 @@ The technologies and tools utilized in this project include:
 - **Responsive Design**: Ensuring compatibility and flawless functionality across all devices.
 
 ## 👀 Preview
+![Image](https://github.com/user-attachments/assets/2313532a-afba-487c-a96b-93994828ad94)
 
